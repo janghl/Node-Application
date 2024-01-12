@@ -1,6 +1,10 @@
 # Simple Node Application
 ## To play around with get, post, put and delete:
 ## Download Yet Another REST Client from google extension store
+## To start the service:
+```
+nodemon index.js
+```
 ## Code below gets information from item "sample":
 ```
 http://localhost:5000/api/getMethod/sample
